@@ -1,14 +1,5 @@
-    """
-SMARTGRID | Appliance-wise Electricity Monitoring Simulator
-----------------------------------------------------------
-Run:
-    pip install streamlit pandas numpy plotly
-    streamlit run smartgrid_simulator.py
 
-This is a SOFTWARE SIMULATION. It does not read real meter hardware and
-does not switch real mains appliances. Hardware integration requires a
-qualified electrical professional and appropriately rated, isolated devices.
-"""
+
 
 from datetime import date, timedelta
 import numpy as np
